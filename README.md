@@ -1,5 +1,5 @@
 # Time-Series-Analysis
-A set of Jupyter workbooks personally developed for University of Melbourne subject ECOM30002.
+A set of Jupyter workbooks personally developed for time series analysis.
 
 This covers the following topics:
 1. Looking at data
