@@ -1,11 +1,11 @@
 # Time Series Analysis
 *A set of Jupyter notebooks developed for time series analysis.*
 
-### Requirements to use the notebooks:
+### Requirements
 -----------
  - Python X.X
 
-### Overview:
+## Overview
 -----------
 This covers the following topics:
 1. Looking at data
