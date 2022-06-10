@@ -1,6 +1,10 @@
 # Time Series Analysis
 *A set of Jupyter notebooks developed for time series analysis.*
 
+### Requirements to use the cookiecutter template:
+-----------
+ - Python X.X
+
 This covers the following topics:
 1. Looking at data
 2. Combining series
