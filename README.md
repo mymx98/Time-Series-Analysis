@@ -12,7 +12,7 @@
 
 ## Overview
 -----------
-This covers the following topics:
+The notebooks generally aims to cover various time series models (specification, properties, how to estimate parameters, generate forecasts) and various statistical tests. It covers the following topics:
 1. Looking at data
 2. Combining series
 3. Filtering
