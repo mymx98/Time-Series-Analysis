@@ -1,5 +1,5 @@
 # Time Series Analysis
-A set of Jupyter notebooks developed for time series analysis.
+* * A set of Jupyter notebooks developed for time series analysis.
 
 This covers the following topics:
 1. Looking at data
