@@ -4,6 +4,11 @@
 ### Requirements
 -----------
  - Python 3.8.0
+ - matplotlib==3.3.4
+ - numpy==1.19.5
+ - pandas==1.4.2
+ - scikit-learn==0.24.1
+ - statsmodels==0.13.2
 
 ## Overview
 -----------
