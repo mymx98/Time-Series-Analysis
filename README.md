@@ -3,7 +3,7 @@
 
 ### Requirements
 -----------
- - Python X.X
+ - Python X.X+
 
 ## Overview
 -----------
