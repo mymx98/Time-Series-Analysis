@@ -3,7 +3,7 @@
 
 ### Requirements
 -----------
- - Python X.X+
+ - Python 3.8.0
 
 ## Overview
 -----------
